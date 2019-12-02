@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/glamit/precache-manifest.9c7580d08c5ca5a91753f7b37e4f2e36.js"
+  "/glamit/precache-manifest.f6d8be633cddbf141481b37197261f28.js"
 );
 
 self.addEventListener('message', (event) => {

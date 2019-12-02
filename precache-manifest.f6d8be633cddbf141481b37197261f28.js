@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09d5bcf490caee12750803c6e5ee0a0d",
+    "revision": "b2b52401b4fdad8ab38a8606e6831f72",
     "url": "/glamit/index.html"
   },
   {
-    "revision": "426f0c847545d3b28dc6",
+    "revision": "d98bdab25d33d216a955",
     "url": "/glamit/static/css/main.994a3eca.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/glamit/static/js/2.43734a16.chunk.js"
   },
   {
-    "revision": "426f0c847545d3b28dc6",
-    "url": "/glamit/static/js/main.f2e08573.chunk.js"
+    "revision": "d98bdab25d33d216a955",
+    "url": "/glamit/static/js/main.d573bfc8.chunk.js"
   },
   {
     "revision": "79e72a80d72857014a77",
