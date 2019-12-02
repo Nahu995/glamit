@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/glamit/static/css/main.994a3eca.chunk.css",
+    "main.js": "/glamit/static/js/main.f2e08573.chunk.js",
+    "main.js.map": "/glamit/static/js/main.f2e08573.chunk.js.map",
+    "runtime-main.js": "/glamit/static/js/runtime-main.7a5278a6.js",
+    "runtime-main.js.map": "/glamit/static/js/runtime-main.7a5278a6.js.map",
+    "static/js/2.43734a16.chunk.js": "/glamit/static/js/2.43734a16.chunk.js",
+    "static/js/2.43734a16.chunk.js.map": "/glamit/static/js/2.43734a16.chunk.js.map",
+    "index.html": "/glamit/index.html",
+    "precache-manifest.9c7580d08c5ca5a91753f7b37e4f2e36.js": "/glamit/precache-manifest.9c7580d08c5ca5a91753f7b37e4f2e36.js",
+    "service-worker.js": "/glamit/service-worker.js",
+    "static/css/main.994a3eca.chunk.css.map": "/glamit/static/css/main.994a3eca.chunk.css.map",
+    "static/media/imagen.jpg": "/glamit/static/media/imagen.f2e8a62e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a5278a6.js",
+    "static/js/2.43734a16.chunk.js",
+    "static/css/main.994a3eca.chunk.css",
+    "static/js/main.f2e08573.chunk.js"
+  ]
+}
