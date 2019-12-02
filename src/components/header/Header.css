@@ -1,0 +1,44 @@
+.header {
+  background-color: black;
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  /* border-top:1px solid #ffffff; */
+}
+p{
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.logo{
+  display: flex;
+  align-items: center;
+}
+.logo > img {
+  padding-left: 30px;
+  height: 80%;
+}
+
+.menu{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0
+}
+.menu > div {
+  margin:auto;
+}
+
+.menu > div > p{
+  font-size: 12pt
+}
+
+.contact {
+  display: flex;
+  justify-content: flex-end;
+}
+.contact > p{
+  padding-right: 30px !important;
+  font-size: 10pt
+
+}
